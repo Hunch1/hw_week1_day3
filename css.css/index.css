@@ -1,0 +1,95 @@
+a{
+    text-decoration: none !important;
+}
+
+.fake-logo{
+    max-width: 10%;
+    max-height: 50%;
+    position: relative; left: 1125px; top: 150px;
+}
+
+form{
+    max-width: 500px;
+    width: 70%;
+    min-width: 400px;
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 1.5%;
+    padding: 1%;
+    margin: 30vh auto 0 auto;
+   
+    
+      
+}
+
+.my-btn{
+    background-color: rgba(51, 173, 182, 0.76) !important;
+    color: black;
+    display: block;
+    margin: 5vh auto;
+    width: 90%;
+
+}
+
+.sign-text{
+    font-size: 35px;    
+}
+
+
+.forgot-pass{
+    margin: 125px;
+    
+
+    
+   
+}
+
+.pls-help{
+    color: blue
+}
+
+
+.new-ama{
+    text-align: center;
+    position: relative;
+    top: 2px;
+    padding-top: 1px;
+    margin-top: 20px;
+    margin-bottom: 14px;
+    line-height: 0;
+}
+h5{
+    max-width: 900px;
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid grey;
+    line-height: 0.1em;
+    margin: 10px 825px 20px;
+}
+
+h5 span{
+    background: #fff;
+    padding: 0 10px;
+}
+
+
+.my-btn2{
+    display: block;
+    margin: 5vh auto;
+    width: 20%;
+    background-color: rgba(209, 207, 207, 0.459);
+
+}
+
+footer{
+    border-top: 1px solid grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 10px;
+}
+
+.copy-right{
+    font-size: 10px;
+    padding: 50px 1100px;
+}
